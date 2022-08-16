@@ -1,0 +1,16 @@
+C:\временная\Examples\E001\bin\Debug\net6.0\E001.exe
+C:\временная\Examples\E001\bin\Debug\net6.0\E001.deps.json
+C:\временная\Examples\E001\bin\Debug\net6.0\E001.runtimeconfig.json
+C:\временная\Examples\E001\bin\Debug\net6.0\E001.dll
+C:\временная\Examples\E001\bin\Debug\net6.0\ref\E001.dll
+C:\временная\Examples\E001\bin\Debug\net6.0\E001.pdb
+C:\временная\Examples\E001\obj\Debug\net6.0\E001.GlobalUsings.g.cs
+C:\временная\Examples\E001\obj\Debug\net6.0\E001.csproj.AssemblyReference.cache
+C:\временная\Examples\E001\obj\Debug\net6.0\E001.GeneratedMSBuildEditorConfig.editorconfig
+C:\временная\Examples\E001\obj\Debug\net6.0\E001.AssemblyInfoInputs.cache
+C:\временная\Examples\E001\obj\Debug\net6.0\E001.AssemblyInfo.cs
+C:\временная\Examples\E001\obj\Debug\net6.0\E001.csproj.CoreCompileInputs.cache
+C:\временная\Examples\E001\obj\Debug\net6.0\E001.dll
+C:\временная\Examples\E001\obj\Debug\net6.0\ref\E001.dll
+C:\временная\Examples\E001\obj\Debug\net6.0\E001.pdb
+C:\временная\Examples\E001\obj\Debug\net6.0\E001.genruntimeconfig.cache
